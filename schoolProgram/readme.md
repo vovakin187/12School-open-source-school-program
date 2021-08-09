@@ -7,11 +7,11 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/vovakin187/12School-open-source-school-program?color=a&label=forks&logo=GitHub&style=flat-square)](https://github.com/vovakin187/12School-open-source-school-program/network)
 
-------------Настройка----------------------------
+Настройка :
 Для того что-бы эта программа работала корректно - 
-Скачайте Python 3.8
+Скачайте Python 3.8,
 Введите в командной строке :
-pip install openpyxl
+pip install openpyxl и
 pip install wikipedia
 -------------------------------------------------
 Пожалуйста не копируйте всё кроме идеи проекта!!!!
