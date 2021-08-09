@@ -4,7 +4,7 @@
 ██╔██║░░░░███╔═╝╚█████╗░██║░░╚═╝███████║██║░░██║██║░░██║██║░░░░░
 ╚═╝██║░░██╔══╝░░░╚═══██╗██║░░██╗██╔══██║██║░░██║██║░░██║██║░░░░░
 
-[![GitHub forks](https://img.shields.io/github/forks/vovakin187/12School-open-source-school-program)](https://github.com/vovakin187/12School-open-source-school-program/network)
+
 
 ------------Настройка----------------------------
 Для того что-бы эта программа работала корректно - 
