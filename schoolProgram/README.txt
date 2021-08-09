@@ -5,7 +5,7 @@
 ███████╗███████╗██████╔╝╚█████╔╝██║░░██║╚█████╔╝╚█████╔╝███████╗
 ╚══════╝╚══════╝╚═════╝░░╚════╝░╚═╝░░╚═╝░╚════╝░░╚════╝░╚══════╝
 
-[![GitHub forks](https://img.shields.io/github/forks/vovakin187/12School-open-source-school-program)](https://github.com/vovakin187/12School-open-source-school-program/network)
+[![GitHub forks](https://img.shields.io/github/forks/vovakin187/12School-open-source-school-program?color=a&label=forks&logo=GitHub&style=flat-square)](https://github.com/vovakin187/12School-open-source-school-program/network)
 
 ------------Настройка----------------------------
 Для того что-бы эта программа работала корректно - 
